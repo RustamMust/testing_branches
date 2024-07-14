@@ -13,7 +13,7 @@ class Factory:
 
 
 a = Factory()
-
+b = SecondFile()
 
 
 
