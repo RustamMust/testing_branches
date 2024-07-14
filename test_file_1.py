@@ -14,6 +14,7 @@ class Factory:
 
 a = Factory()
 b = SecondFile()
+c = OneFile()
 
 
 
