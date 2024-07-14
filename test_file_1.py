@@ -14,6 +14,7 @@ class Factory:
     print('my commit')
     print('hello')
     print('hello')
+    print('how are you')
 
 
 a = Factory()
