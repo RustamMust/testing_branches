@@ -11,6 +11,8 @@ class Factory:
 
     two = SecondFile()
 
+    print('my commit')
+
 
 a = Factory()
 b = SecondFile()
