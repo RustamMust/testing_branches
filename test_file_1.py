@@ -12,6 +12,8 @@ class Factory:
     two = SecondFile()
 
     print('my commit')
+    print('hello')
+    print('hello')
 
 
 a = Factory()
