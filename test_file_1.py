@@ -23,3 +23,5 @@ print('hello world')
 print('i am not so busy')
 print('new factory')
 new_value = 'value string'
+new_value_2 = 'value string 2 NEW VALUE'
+
