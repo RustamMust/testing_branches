@@ -14,5 +14,5 @@ class FactoryNotFile:
     pass
 
 
-a = SecondFile()
-file = SecondFile()
+b = FactoryFile()
+ability = FactoryNotFile()
