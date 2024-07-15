@@ -20,4 +20,4 @@ ability = FactoryNotFile()
 print('hello world')
 print('i am not so busy')
 print('new factory')
-new_value = 'new value string'
+new_value = 'value string'
