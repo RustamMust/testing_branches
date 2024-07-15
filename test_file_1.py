@@ -16,3 +16,7 @@ class FactoryNotFile:
 
 b = FactoryFile()
 ability = FactoryNotFile()
+
+print('hello world')
+print('i am not so busy')
+print('new factory')
