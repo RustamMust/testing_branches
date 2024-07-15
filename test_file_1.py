@@ -5,3 +5,5 @@ class OneFile:
 class SecondFile(OneFile):
     pass
 
+class OneFileThatNeed:
+    pass
