@@ -5,5 +5,3 @@ class OneFile:
 class SecondFile(OneFile):
     pass
 
-
-
